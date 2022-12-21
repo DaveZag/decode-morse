@@ -1,7 +1,6 @@
 # decode morse code character
 
 def decode_char(character)
-
   # dictionary
   dictionary = {
     'A' => '.-', 'B' => '-...', 'C' => '-.-.', 'D' => '-..', 'E' => '.', 'F' => '..-.',
