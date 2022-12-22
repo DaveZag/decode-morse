@@ -29,7 +29,7 @@
 
 The morse code used as reference:
 
-<img src="./International_Morse_Code.png" alt="Morse code"/>
+<img src="./International_Morse_Code.png" width="400" alt="Morse code"/>
 
 ## 🛠 Built With <a name="built-with"></a>
 
