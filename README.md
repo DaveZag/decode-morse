@@ -26,6 +26,10 @@
 
 > This project is an implementation of a morse code decoder. It translates morse code message into an understandable language.
 
+The morse code used as reference:
+
+<img src="./International_Morse_Code.svg" style="background-color:#2ab7ca;" alt="Morse code"/>
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
