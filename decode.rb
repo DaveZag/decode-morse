@@ -59,8 +59,8 @@ def decode(string)
   formed_sentence.rstrip
 end
 
-# MY NAME
-puts(decode('-- -.--   -. .- -- .'))
+# MY NAME IS JOHN
+puts(decode('-- -.--   -. .- -- .   .. ...   .--- --- .... -.'))
 
 # A BOX FULL OF RUBIES
 puts(decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'))
